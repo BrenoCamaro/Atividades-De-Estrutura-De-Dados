@@ -14,7 +14,6 @@
 
 3° Etapa:
     Inicializar a variável numero como 0;
-    inicializar contador como 0;
 
     Imprimir: "Informe um valor ( -1 para terminar ): ";
 
@@ -39,7 +38,6 @@
         Caso contrário, se resto da divisão de numero por 7 for  igual a 0
             imprimir 0 (O numero NÃO e primo!)
 
-        i++;
         Imprimir: "Informe um valor ( -1 para terminar ): ";
 
 
