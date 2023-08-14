@@ -1,0 +1,46 @@
+// Autor: Breno Camarô Arraes
+// Matrícula: uc2200177
+
+1° - Etapa:
+    Crie um programa em linguagem C que recebe um número e imprime no console: 0 - se o número não for primo;
+    1 - se o número for primo;
+
+2° - Etapa: 
+    Inicializar a variáves;
+    Imprimir instrução;
+    Inserir dados;
+    Fazer cálculos;
+    Imprimir resultado.
+
+3° Etapa:
+    Inicializar a variável numero como 0;
+    inicializar contador como 0;
+
+    Imprimir: "Informe um valor ( -1 para terminar ): ";
+
+    Equanto numero diferente de -1
+
+        Inserir numero;
+
+        Se numero for igual a 2
+            imprimir 1 (O numero e primo!)
+        Caso contrario, se o resto da divisao de numero por 2 for igual a 0
+            imprimir 0 (O numero NÃO e primo!)
+        Caso contario se numero for igual a 3
+            imprimir 1 (O numero e primo!)
+        Caso contrário, se resto da divisão de numero por 3 for  igual a 0
+            imprimir 0 (O numero NÃO e primo!)
+        Caso contario se numero for igual a 5
+            imprimir 1 (O numero e primo!)
+        Caso contrário, se resto da divisão de numero por 5 for  igual a 0
+            imprimir 0 (O numero NÃO e primo!)
+        Caso contario se numero for igual a 7
+            imprimir 1 (O numero e primo!)
+        Caso contrário, se resto da divisão de numero por 7 for  igual a 0
+            imprimir 0 (O numero NÃO e primo!)
+
+        i++;
+        Imprimir: "Informe um valor ( -1 para terminar ): ";
+
+
+    
